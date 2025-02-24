@@ -5,5 +5,3 @@ assert inp[1] == ' ', 'Input must contain a space'
 assert inp[0] in '123456789', 'First character must be a digit'
 assert inp[2] in '123456789', 'Third character must be a digit'
 assert inp[3] == '\n', 'Input must end with a newline'
-
-# edit
