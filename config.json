@@ -62,7 +62,7 @@
         },
         {
             "name": "generator.cc",
-            "language": "cpp11",
+            "language": "c99",
             "alias": "random_cc"
         }
     ],
