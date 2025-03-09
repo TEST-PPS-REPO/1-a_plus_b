@@ -46,7 +46,7 @@
         {
             "name": "solution_heuristic.cc",
             "language": "cpp11",
-            "type": "WA"
+            "type": "AC/WA"
         }
     ],
     "generators": [
