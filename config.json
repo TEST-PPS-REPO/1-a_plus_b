@@ -34,7 +34,7 @@
             "type": "MCS"
         },
         {
-            "name": "solution_wa.cc",
+            "name": "solution_wa1.cc",
             "language": "cpp11",
             "type": "WA"
         },
