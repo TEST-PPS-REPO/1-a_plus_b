@@ -51,7 +51,7 @@
     ],
     "generators": [
         {
-            "name": "generator_manual.py",
+            "name": "generator_manual2.py",
             "language": "py3",
             "alias": "manual"
         },
