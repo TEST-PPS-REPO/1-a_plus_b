@@ -7,7 +7,7 @@
     "validator_language": "cpp11",
     "subtask": false,
     "limits": {
-        "time": "",
+        "time": 0,
         "memory": 536870912,
         "factor": {
             "py3": {
