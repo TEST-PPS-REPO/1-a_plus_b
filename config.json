@@ -78,6 +78,12 @@
             "description": "",
             "score": 0,
             "dependencies": []
+        },
+        {
+            "name": "huk",
+            "description": "",
+            "score": 0,
+            "dependencies": []
         }
     ],
     "genscript": [
