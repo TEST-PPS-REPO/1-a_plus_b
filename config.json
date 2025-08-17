@@ -1,6 +1,6 @@
 {
     "problem_title": "a + b",
-    "problem_type": "interactive",
+    "problem_type": "interacloktive",
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
     "validator": "validator.cc",
